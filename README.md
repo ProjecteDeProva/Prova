@@ -1,4 +1,3 @@
 # Prova
 hola
-adeu
 haha
